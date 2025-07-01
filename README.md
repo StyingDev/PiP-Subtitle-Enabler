@@ -14,7 +14,7 @@ Most sites don’t default to `'showing'`, so this extension ensures subtitles a
 ## 🚀 Installation
 
 <details>
-<summary><h2>📘 Firefox Based</h2></summary>
+<summary><h2>📘 Firefox</h2></summary>
 
 ### Option 1: Official Store Download
 1. Visit the [Firefox Addon Store](example.com) (TBA)
