@@ -32,9 +32,9 @@ Most sites don’t default to `'showing'`, so this extension ensures subtitles a
 
 ## ⚠️ Limitations
 
-* ❌ **Does NOT work** with JS-rendered or WASM-rendered captions (e.g. Crunchyroll, canvas, divs).
-* ⚠️ **Cannot generate subtitles** where none exist.
-* 🔒 Firefox may intentionally restrict PiP captions on some domains for security/privacy.
+* **Does NOT work** with JS-rendered or WASM-rendered captions (e.g. Crunchyroll, canvas, divs).
+* **Cannot generate subtitles** where none exist.
+* Firefox may intentionally restrict PiP captions on some domains for security/privacy.
 
 
 
